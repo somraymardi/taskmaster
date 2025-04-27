@@ -18,7 +18,7 @@
             <button type="button" id="add-todo-btn" class="ml-4 px-4 py-2 bg-green-500 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-green-700 hover:shadow-lg focus:bg-green-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-green-800 active:shadow-lg transition duration-150 ease-in-out">Add Task</button>
         </div>
         <div class="mt-6 text-center text-gray-600">
-            Built on <a href="https://cerebrascoder.com" target="_blank" class="text-gray-900 underline">Cerebras Coder</a>
+            Built on <a href="https://somraymardi.github.io/taskmaster/" target="_blank" class="text-gray-900 underline">Somray Mardi</a>
         </div>
     </div>
 
